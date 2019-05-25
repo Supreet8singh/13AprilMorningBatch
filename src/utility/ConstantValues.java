@@ -15,7 +15,8 @@ public class ConstantValues {
 	public static final String departueCity = ExcelReadWrite.readValues("TestCases", 3, 4);
 	public static final String arrivaleCity = ExcelReadWrite.readValues("TestCases", 4, 4);
 	public static final String travelDate = ExcelReadWrite.readValues("TestCases", 5, 4);
-	public static final String excelPath = "E:\\13AprilBatch\\HybridFarmework_WithMaven\\Indigo Test Cases.xlsx";
+	//-----------------------------------
+	public static final String excelPath = "E:\\Git13AprilMorning\\HybridFarmework_WithMaven\\HybridFarmework_WithMaven\\Indigo Test Cases.xlsx";
 	public static final String testcasesSheetName = "TestCases";
 	public static final String testScenarioSheet = "Test Scenarios";
 	public static final int runModeCol = 3;
