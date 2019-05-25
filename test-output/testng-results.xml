@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+    <line>
+      <![CDATA[The browser which got openend is :Chrome]]>
+    </line>
+    <line>
+      <![CDATA[The URL which got openend is :https://www.goindigo.in/?linkNav=home_header]]>
+    </line>
+    <line>
+      <![CDATA[Sucessfully worked with the keyboard keys in  :name:or-src]]>
+    </line>
+    <line>
+      <![CDATA[Sucessfully worked with the keyboard keys in  :name:or-src]]>
+    </line>
+    <line>
+      <![CDATA[Sucessfully worked with the keyboard keys in  :name:or-src]]>
+    </line>
+    <line>
+      <![CDATA[Sucessfully worked with the keyboard keys in  :name:or-src]]>
+    </line>
+    <line>
+      <![CDATA[Sucessfully worked with the keyboard keys in  :name:or-src]]>
+    </line>
+    <line>
+      <![CDATA[Sucessfully worked with the keyboard keys in  :name:or-src]]>
+    </line>
+    <line>
+      <![CDATA[Sucessfully worked with the keyboard keys in  :name:or-src]]>
+    </line>
+    <line>
+      <![CDATA[Sucessfully worked with the keyboard keys in  :name:or-src]]>
+    </line>
+    <line>
+      <![CDATA[Sucessfully worked with the keyboard keys in  :name:or-src]]>
+    </line>
+    <line>
+      <![CDATA[Sucessfully worked with the keyboard keys in  :name:or-src]]>
+    </line>
+    <line>
+      <![CDATA[Sucessfully worked with the keyboard keys in  :name:or-src]]>
+    </line>
+    <line>
+      <![CDATA[Sucessfully worked with the keyboard keys in  :name:or-src]]>
+    </line>
+    <line>
+      <![CDATA[Sucessfully worked with the keyboard keys in  :name:or-src]]>
+    </line>
+    <line>
+      <![CDATA[Sucessfully worked with the keyboard keys in  :name:or-src]]>
+    </line>
+    <line>
+      <![CDATA[Sucessfully worked with the keyboard keys in  :name:or-src]]>
+    </line>
+    <line>
+      <![CDATA[Sucessfully worked with the keyboard keys in  :name:or-src]]>
+    </line>
+    <line>
+      <![CDATA[Sucessfully worked with the keyboard keys in  :name:or-src]]>
+    </line>
+    <line>
+      <![CDATA[Sucessfully worked with the keyboard keys in  :name:or-src]]>
+    </line>
+    <line>
+      <![CDATA[Sucessfully worked with the keyboard keys in  :name:or-src]]>
+    </line>
+    <line>
+      <![CDATA[Sucessfully worked with the keyboard keys in  :name:or-src]]>
+    </line>
+    <line>
+      <![CDATA[Sucessfully worked with the keyboard keys in  :name:or-src]]>
+    </line>
+    <line>
+      <![CDATA[Sucessfully worked with the keyboard keys in  :name:or-src]]>
+    </line>
+    <line>
+      <![CDATA[Sucessfully worked with the keyboard keys in  :name:or-src]]>
+    </line>
+    <line>
+      <![CDATA[Sucessfully worked with the keyboard keys in  :name:or-src]]>
+    </line>
+    <line>
+      <![CDATA[Sucessfully worked with the keyboard keys in  :name:or-src]]>
+    </line>
+    <line>
+      <![CDATA[Sucessfully worked with the keyboard keys in  :name:or-src]]>
+    </line>
+    <line>
+      <![CDATA[Sucessfully worked with the keyboard keys in  :name:or-src]]>
+    </line>
+    <line>
+      <![CDATA[Sucessfully worked with the keyboard keys in  :name:or-src]]>
+    </line>
+    <line>
+      <![CDATA[Sucessfully worked with the keyboard keys in  :name:or-src]]>
+    </line>
+    <line>
+      <![CDATA[Sucessfully worked with the keyboard keys in  :name:or-src]]>
+    </line>
+    <line>
+      <![CDATA[Sucessfully entered the text in  :name:or-src and the value is : Chennai (MAA)]]>
+    </line>
+    <line>
+      <![CDATA[Sucessfully worked with the keyboard keys in  :name:or-src]]>
+    </line>
+    <line>
+      <![CDATA[Sucessfully entered the text in  :name:or-dest and the value is : Ahmedabad (AMD)]]>
+    </line>
+    <line>
+      <![CDATA[Sucessfully worked with the keyboard keys in  :name:or-dest]]>
+    </line>
+    <line>
+      <![CDATA[Sucessfully fetched the date from the calender :20]]>
+    </line>
+    <line>
+      <![CDATA[Sucessfully clicked the webelement at  :name:passenger]]>
+    </line>
+    <line>
+      <![CDATA[Sucessfully clicked the webelement at  :xpath://*[@id='bookFlightTab']/form/div[5]/div[1]/div[2]/ul/li[1]/div/button[2]/span]]>
+    </line>
+    <line>
+      <![CDATA[Sucessfully clicked the webelement at  :xpath://*[@id='bookFlightTab']/form/div[5]/div[1]/div[2]/ul/li[1]/div/button[2]/span]]>
+    </line>
+    <line>
+      <![CDATA[Sucessfully clicked the webelement at  :xpath://*[@id='bookFlightTab']/form/div[5]/div[1]/div[2]/div/button]]>
+    </line>
+    <line>
+      <![CDATA[Sucessfully clicked the webelement at  :xpath://*[@id='bookFlightTab']/form/div[7]/div[6]/button/span[1]]]>
+    </line>
+    <line>
+      <![CDATA[Sucessfully fetched the value from the webelement : xpath://*[@id='bookingWidgetContainer']/div/div/div/div[2]/div[3]/div/div[1]/spanand the value is : ₹ 3,543]]>
+    </line>
+    <line>
+      <![CDATA[Sucessfully clicked the webelement at  :xpath://*[@id='flightSelectMount']/div/div[1]/div/div/div/div[1]/div[1]/div/div/div[2]/div/button[1]]]>
+    </line>
+    <line>
+      <![CDATA[Sucessfully clicked the webelement at  :linkText:Contact us]]>
+    </line>
+    <line>
+      <![CDATA[Sucessfully switched to a new window ]]>
+    </line>
+    <line>
+      <![CDATA[Sucessfully fetched the value from the webelement : xpath:/html/body/div[6]/div[1]/div[1]/div/div[2]/div/div[1]/p[1]and the value is : Level 1, Tower C, Global Business Park, Mehrauli-Gurgaon Road, Gurgaon – 122 002, Haryana, India.]]>
+    </line>
+    <line>
+      <![CDATA[Sucessfully hovered the mouse at the webelement :linkText:Manage]]>
+    </line>
+    <line>
+      <![CDATA[Sucessfully hovered and click the mouse at the webelement :linkText:Lounge Services]]>
+    </line>
+    <line>
+      <![CDATA[Sucessfully closed the browser]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="42478" started-at="2019-05-19T02:04:14Z" finished-at="2019-05-19T02:04:56Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="42478" started-at="2019-05-19T02:04:14Z" finished-at="2019-05-19T02:04:56Z">
+      <class name="p1.MainMethod">
+        <test-method status="PASS" signature="prerequiste()[pri:0, instance:p1.MainMethod@26be92ad]" name="prerequiste" is-config="true" duration-ms="485" started-at="2019-05-19T02:04:14Z" finished-at="2019-05-19T02:04:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prerequiste -->
+        <test-method status="PASS" signature="tc001()[pri:1, instance:p1.MainMethod@26be92ad]" name="tc001" duration-ms="26203" started-at="2019-05-19T02:04:14Z" finished-at="2019-05-19T02:04:41Z">
+          <reporter-output>
+            <line>
+              <![CDATA[The browser which got openend is :Chrome]]>
+            </line>
+            <line>
+              <![CDATA[The URL which got openend is :https://www.goindigo.in/?linkNav=home_header]]>
+            </line>
+            <line>
+              <![CDATA[Sucessfully worked with the keyboard keys in  :name:or-src]]>
+            </line>
+            <line>
+              <![CDATA[Sucessfully worked with the keyboard keys in  :name:or-src]]>
+            </line>
+            <line>
+              <![CDATA[Sucessfully worked with the keyboard keys in  :name:or-src]]>
+            </line>
+            <line>
+              <![CDATA[Sucessfully worked with the keyboard keys in  :name:or-src]]>
+            </line>
+            <line>
+              <![CDATA[Sucessfully worked with the keyboard keys in  :name:or-src]]>
+            </line>
+            <line>
+              <![CDATA[Sucessfully worked with the keyboard keys in  :name:or-src]]>
+            </line>
+            <line>
+              <![CDATA[Sucessfully worked with the keyboard keys in  :name:or-src]]>
+            </line>
+            <line>
+              <![CDATA[Sucessfully worked with the keyboard keys in  :name:or-src]]>
+            </line>
+            <line>
+              <![CDATA[Sucessfully worked with the keyboard keys in  :name:or-src]]>
+            </line>
+            <line>
+              <![CDATA[Sucessfully worked with the keyboard keys in  :name:or-src]]>
+            </line>
+            <line>
+              <![CDATA[Sucessfully worked with the keyboard keys in  :name:or-src]]>
+            </line>
+            <line>
+              <![CDATA[Sucessfully worked with the keyboard keys in  :name:or-src]]>
+            </line>
+            <line>
+              <![CDATA[Sucessfully worked with the keyboard keys in  :name:or-src]]>
+            </line>
+            <line>
+              <![CDATA[Sucessfully worked with the keyboard keys in  :name:or-src]]>
+            </line>
+            <line>
+              <![CDATA[Sucessfully worked with the keyboard keys in  :name:or-src]]>
+            </line>
+            <line>
+              <![CDATA[Sucessfully worked with the keyboard keys in  :name:or-src]]>
+            </line>
+            <line>
+              <![CDATA[Sucessfully worked with the keyboard keys in  :name:or-src]]>
+            </line>
+            <line>
+              <![CDATA[Sucessfully worked with the keyboard keys in  :name:or-src]]>
+            </line>
+            <line>
+              <![CDATA[Sucessfully worked with the keyboard keys in  :name:or-src]]>
+            </line>
+            <line>
+              <![CDATA[Sucessfully worked with the keyboard keys in  :name:or-src]]>
+            </line>
+            <line>
+              <![CDATA[Sucessfully worked with the keyboard keys in  :name:or-src]]>
+            </line>
+            <line>
+              <![CDATA[Sucessfully worked with the keyboard keys in  :name:or-src]]>
+            </line>
+            <line>
+              <![CDATA[Sucessfully worked with the keyboard keys in  :name:or-src]]>
+            </line>
+            <line>
+              <![CDATA[Sucessfully worked with the keyboard keys in  :name:or-src]]>
+            </line>
+            <line>
+              <![CDATA[Sucessfully worked with the keyboard keys in  :name:or-src]]>
+            </line>
+            <line>
+              <![CDATA[Sucessfully worked with the keyboard keys in  :name:or-src]]>
+            </line>
+            <line>
+              <![CDATA[Sucessfully worked with the keyboard keys in  :name:or-src]]>
+            </line>
+            <line>
+              <![CDATA[Sucessfully worked with the keyboard keys in  :name:or-src]]>
+            </line>
+            <line>
+              <![CDATA[Sucessfully worked with the keyboard keys in  :name:or-src]]>
+            </line>
+            <line>
+              <![CDATA[Sucessfully worked with the keyboard keys in  :name:or-src]]>
+            </line>
+            <line>
+              <![CDATA[Sucessfully entered the text in  :name:or-src and the value is : Chennai (MAA)]]>
+            </line>
+            <line>
+              <![CDATA[Sucessfully worked with the keyboard keys in  :name:or-src]]>
+            </line>
+            <line>
+              <![CDATA[Sucessfully entered the text in  :name:or-dest and the value is : Ahmedabad (AMD)]]>
+            </line>
+            <line>
+              <![CDATA[Sucessfully worked with the keyboard keys in  :name:or-dest]]>
+            </line>
+            <line>
+              <![CDATA[Sucessfully fetched the date from the calender :20]]>
+            </line>
+            <line>
+              <![CDATA[Sucessfully clicked the webelement at  :name:passenger]]>
+            </line>
+            <line>
+              <![CDATA[Sucessfully clicked the webelement at  :xpath://*[@id='bookFlightTab']/form/div[5]/div[1]/div[2]/ul/li[1]/div/button[2]/span]]>
+            </line>
+            <line>
+              <![CDATA[Sucessfully clicked the webelement at  :xpath://*[@id='bookFlightTab']/form/div[5]/div[1]/div[2]/ul/li[1]/div/button[2]/span]]>
+            </line>
+            <line>
+              <![CDATA[Sucessfully clicked the webelement at  :xpath://*[@id='bookFlightTab']/form/div[5]/div[1]/div[2]/div/button]]>
+            </line>
+            <line>
+              <![CDATA[Sucessfully clicked the webelement at  :xpath://*[@id='bookFlightTab']/form/div[7]/div[6]/button/span[1]]]>
+            </line>
+            <line>
+              <![CDATA[Sucessfully fetched the value from the webelement : xpath://*[@id='bookingWidgetContainer']/div/div/div/div[2]/div[3]/div/div[1]/spanand the value is : ₹ 3,543]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc001 -->
+        <test-method status="PASS" signature="tc002()[pri:2, instance:p1.MainMethod@26be92ad]" name="tc002" duration-ms="987" started-at="2019-05-19T02:04:41Z" finished-at="2019-05-19T02:04:42Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Sucessfully clicked the webelement at  :xpath://*[@id='flightSelectMount']/div/div[1]/div/div/div/div[1]/div[1]/div/div/div[2]/div/button[1]]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc002 -->
+        <test-method status="PASS" signature="tc003()[pri:3, instance:p1.MainMethod@26be92ad]" name="tc003" duration-ms="7442" started-at="2019-05-19T02:04:42Z" finished-at="2019-05-19T02:04:49Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Sucessfully clicked the webelement at  :linkText:Contact us]]>
+            </line>
+            <line>
+              <![CDATA[Sucessfully switched to a new window ]]>
+            </line>
+            <line>
+              <![CDATA[Sucessfully fetched the value from the webelement : xpath:/html/body/div[6]/div[1]/div[1]/div/div[2]/div/div[1]/p[1]and the value is : Level 1, Tower C, Global Business Park, Mehrauli-Gurgaon Road, Gurgaon – 122 002, Haryana, India.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc003 -->
+        <test-method status="PASS" signature="tc004()[pri:4, instance:p1.MainMethod@26be92ad]" name="tc004" duration-ms="7344" started-at="2019-05-19T02:04:49Z" finished-at="2019-05-19T02:04:56Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Sucessfully hovered the mouse at the webelement :linkText:Manage]]>
+            </line>
+            <line>
+              <![CDATA[Sucessfully hovered and click the mouse at the webelement :linkText:Lounge Services]]>
+            </line>
+            <line>
+              <![CDATA[Sucessfully closed the browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc004 -->
+      </class> <!-- p1.MainMethod -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
