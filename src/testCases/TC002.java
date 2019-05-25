@@ -9,6 +9,9 @@ public class TC002 {
 		Flight_Select FS = new Flight_Select();
 		
 		FS.selectTime();
+		
+		//-----------------------------------
+		
 		FS.NoofFlights();
 
 	}

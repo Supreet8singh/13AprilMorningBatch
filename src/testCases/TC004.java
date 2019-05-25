@@ -9,9 +9,9 @@ public class TC004 {
 		
 		Lounge_Header LH = new Lounge_Header();
 		
-		Thread.sleep(2000);
+		Thread.sleep(3000);
 		LH.loungeMainMenu();
-		Thread.sleep(2000);
+		Thread.sleep(3000);
 		LH.loungeServices();
 		LH.getLoungeServices();
 		
